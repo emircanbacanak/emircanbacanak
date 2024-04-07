@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity,JavaScript,Nodejs**
 
-- 🤝 I’m looking for help with **Game Development**
+- 🤝 I’m looking for help with **data science**
 
 - 📫 How to reach me **canemircan973@gmail.com**
 
