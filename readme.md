@@ -28,48 +28,16 @@
 ### 🛠️ **Languages and Tools**
 
 <p align="center">
-<table align="center">
-  <tr>
-    <th>Languages</th>
-    <th>Tools & Frameworks</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> Java
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> MongoDB
-    </td>
-  </tr>
-  <tr>
-        <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> Unity
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> Arduino
-    </td>
-  </tr>
-  <tr>
-<td></td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> CSS
-    </td>
-  </tr>
-</table>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
 ---
@@ -85,7 +53,7 @@
   <tr>
     <td align="center">Python</td>
     <td align="center">Advanced</td>
-    <td align="center">2</td>
+    <td align="center">3+</td>
   </tr>
   <tr>
     <td align="center">JavaScript</td>
@@ -95,17 +63,17 @@
   <tr>
     <td align="center">Machine Learning</td>
     <td align="center">Intermediate</td>
-    <td align="center">1.5</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td align="center">Node.js</td>
     <td align="center">Intermediate</td>
-    <td align="center">1</td>
+    <td align="center">1.5</td>
   </tr>
   <tr>
     <td align="center">HTML/CSS</td>
     <td align="center">Advanced</td>
-    <td align="center">2</td>
+    <td align="center">3+</td>
   </tr>
 </table>
 </p>
