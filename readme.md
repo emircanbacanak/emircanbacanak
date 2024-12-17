@@ -25,10 +25,10 @@
 
 ---
 
-### 🛠️ **Languages and Tools**  
+### 🛠️ **Languages and Tools**
 
 <p align="center">
-<table>
+<table align="center">
   <tr>
     <th>Languages</th>
     <th>Tools & Frameworks</th>
