@@ -85,3 +85,41 @@
 </p>
 
 ---
+
+### 📋 **My Skills Table**
+<p align="center">
+<table align="center">
+  <tr>
+    <th>Skill</th>
+    <th>Level</th>
+    <th>Years of Experience</th>
+  </tr>
+  <tr>
+    <td align="center">Python</td>
+    <td align="center">Advanced</td>
+    <td align="center">3+</td>
+  </tr>
+  <tr>
+    <td align="center">JavaScript</td>
+    <td align="center">Intermediate</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center">Machine Learning</td>
+    <td align="center">Intermediate</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center">Node.js</td>
+    <td align="center">Intermediate</td>
+    <td align="center">1.5</td>
+  </tr>
+  <tr>
+    <td align="center">HTML/CSS</td>
+    <td align="center">Advanced</td>
+    <td align="center">3+</td>
+  </tr>
+</table>
+</p>
+
+---
