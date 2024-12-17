@@ -97,7 +97,7 @@
   <tr>
     <td align="center">Python</td>
     <td align="center">Advanced</td>
-    <td align="center">3+</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td align="center">JavaScript</td>
@@ -107,17 +107,17 @@
   <tr>
     <td align="center">Machine Learning</td>
     <td align="center">Intermediate</td>
-    <td align="center">2</td>
+    <td align="center">1.5</td>
   </tr>
   <tr>
     <td align="center">Node.js</td>
     <td align="center">Intermediate</td>
-    <td align="center">1.5</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td align="center">HTML/CSS</td>
     <td align="center">Advanced</td>
-    <td align="center">3+</td>
+    <td align="center">2</td>
   </tr>
 </table>
 </p>
