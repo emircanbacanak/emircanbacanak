@@ -50,11 +50,13 @@
     </td>
   </tr>
   <tr>
+    <td></td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> Unity
     </td>
   </tr>
   <tr>
+    <td></td>
     <td align="center">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> Arduino
     </td>
