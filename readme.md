@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm EMIR CAN BACANAK</h1>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=emircanbacanak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="I am a Software Engineering Student GIF" />
 </p>
 
-### 🔭 I'm currently working on **Data Science**  
-### 🌱 I’m currently learning **Unity**, **JavaScript**, **Nodejs**  
-### 🤝 I’m looking for help with **Data Science**  
-### 📫 How to reach me: **canemircan973@gmail.com**  
+### I am a Software Engineering Student
+### 🔭 I'm currently working with **Data Science & AI Technologies**
 
 ---
 
