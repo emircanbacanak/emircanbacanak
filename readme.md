@@ -15,11 +15,11 @@
 
 ### 🚀 **Connect with Me**  
 <p align="center">
-  <a href="https://linkedin.com/in/emircanbacanak/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-Emir%20Can%20Bacanak-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/emircanbacanak/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/emirbcnk/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-@emirbcnk-ff69b4?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="mailto:canemircan973@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/>
   </a>
 </p>
 
