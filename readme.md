@@ -26,6 +26,5 @@
 ### 🛠️ **Languages and Tools**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,mysql,Node.js,JavaScript,Java,React,Unity,Git,Flutter,C#" alt="C#" width="40" height="40"/>
 </p>
