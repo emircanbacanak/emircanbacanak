@@ -26,5 +26,5 @@
 ### 🛠️ **Languages and Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,mysql,node.js,javascript,java,react,unity,git,flutter,c#" height="50" alt="tech stack logos"/>
+  <img src="https://skillicons.dev/icons?i=python,selenium,sklearn,flask,tensorflow,mysql,nodejs,javascript,java,react,unity,git,flutter,cs,css" height="50" alt="tech stack logos"/>
 </p>
