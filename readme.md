@@ -36,5 +36,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,go,react,flutter,js,java,postgresql,mysql,rabbitmq,postman,git" alt="C#" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask,tensorflow,mysql" alt="C#" width="40" height="40"/>
 </p>
