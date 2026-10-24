@@ -1,30 +1,6 @@
-### 🧑🏽‍💻 **About Me**
-<p align="center">
-  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="I am a Software Engineering Student GIF" />
-</p>
+<p align="center"> <img src="./assets/header.svg" alt="Emir Can Bacanak, software engineer. Automation, AI-powered tooling, full-stack web." width="100%" /> </p> <p align="center"> <a href="https://linkedin.com/in/emircanbacanak/"><img src="https://img.shields.io/badge/LinkedIn-0E1A2B?style=flat-square&logo=linkedin&logoColor=3DD6C6" alt="LinkedIn" /></a> <a href="mailto:canemircan973@gmail.com"><img src="https://img.shields.io/badge/Email-0E1A2B?style=flat-square&logo=gmail&logoColor=3DD6C6" alt="Email" /></a> <a href="https://twitter.com/EmircanBacanak"><img src="https://img.shields.io/badge/X-0E1A2B?style=flat-square&logo=x&logoColor=3DD6C6" alt="X" /></a> </p> <p align="center"> <img src="./assets/capabilities.svg" alt="What I build: automation, AI-powered tooling, full-stack web." width="100%" /> </p>
+Tech stack
+<p> <img src="https://img.shields.io/badge/Python-0E1A2B?style=flat-square&logo=python&logoColor=3DD6C6" alt="Python" /> <img src="https://img.shields.io/badge/Flask-0E1A2B?style=flat-square&logo=flask&logoColor=3DD6C6" alt="Flask" /> <img src="https://img.shields.io/badge/Node.js-0E1A2B?style=flat-square&logo=nodedotjs&logoColor=3DD6C6" alt="Node.js" /> <img src="https://img.shields.io/badge/JavaScript-0E1A2B?style=flat-square&logo=javascript&logoColor=3DD6C6" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-0E1A2B?style=flat-square&logo=react&logoColor=3DD6C6" alt="React" /> <img src="https://img.shields.io/badge/MySQL-0E1A2B?style=flat-square&logo=mysql&logoColor=3DD6C6" alt="MySQL" /> <img src="https://img.shields.io/badge/Selenium-0E1A2B?style=flat-square&logo=selenium&logoColor=3DD6C6" alt="Selenium" /> <img src="https://img.shields.io/badge/Git-0E1A2B?style=flat-square&logo=git&logoColor=3DD6C6" alt="Git" /> </p>
+Work with me
 
-- 🔝 **Currently Working On:**  
-   - Data Science & AI Technologies  
-- 🎓 **Education:** Software Engineering Student  
-- 🌱 **Learning:** Deep Learning | Machine Learning | Full-Stack Development  
-- 💬 **Ask me about:** Python, Data Science, and AI  
-
----
-
-### 🚀 **Connect with Me**  
-<p align="center">
-  <a href="https://linkedin.com/in/emircanbacanak/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:canemircan973@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/>
-  </a>
-</p>
-
----
-
-### 🛠️ **Languages and Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,sklearn,flask,tensorflow,mysql,nodejs,javascript,java,react,unity,git,flutter,cs,css" height="50" alt="tech stack logos"/>
-</p>
+Open to full-time, part-time and freelance work. If you have a manual process that should not be manual, write to me at canemircan973@gmail.com.
