@@ -1,6 +1,30 @@
-<p align="center"> <img src="./assets/header.svg" alt="Emir Can Bacanak, software engineer. Automation, AI-powered tooling, full-stack web." width="100%" /> </p> <p align="center"> <a href="https://linkedin.com/in/emircanbacanak/"><img src="https://img.shields.io/badge/LinkedIn-0E1A2B?style=flat-square&logo=linkedin&logoColor=3DD6C6" alt="LinkedIn" /></a> <a href="mailto:canemircan973@gmail.com"><img src="https://img.shields.io/badge/Email-0E1A2B?style=flat-square&logo=gmail&logoColor=3DD6C6" alt="Email" /></a> <a href="https://twitter.com/EmircanBacanak"><img src="https://img.shields.io/badge/X-0E1A2B?style=flat-square&logo=x&logoColor=3DD6C6" alt="X" /></a> </p> <p align="center"> <img src="./assets/capabilities.svg" alt="What I build: automation, AI-powered tooling, full-stack web." width="100%" /> </p>
-Tech stack
-<p> <img src="https://img.shields.io/badge/Python-0E1A2B?style=flat-square&logo=python&logoColor=3DD6C6" alt="Python" /> <img src="https://img.shields.io/badge/Flask-0E1A2B?style=flat-square&logo=flask&logoColor=3DD6C6" alt="Flask" /> <img src="https://img.shields.io/badge/Node.js-0E1A2B?style=flat-square&logo=nodedotjs&logoColor=3DD6C6" alt="Node.js" /> <img src="https://img.shields.io/badge/JavaScript-0E1A2B?style=flat-square&logo=javascript&logoColor=3DD6C6" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-0E1A2B?style=flat-square&logo=react&logoColor=3DD6C6" alt="React" /> <img src="https://img.shields.io/badge/MySQL-0E1A2B?style=flat-square&logo=mysql&logoColor=3DD6C6" alt="MySQL" /> <img src="https://img.shields.io/badge/Selenium-0E1A2B?style=flat-square&logo=selenium&logoColor=3DD6C6" alt="Selenium" /> <img src="https://img.shields.io/badge/Git-0E1A2B?style=flat-square&logo=git&logoColor=3DD6C6" alt="Git" /> </p>
-Work with me
+<p align="center">
+  <img src="./assets/header.svg" alt="Emir Can Bacanak, software engineer. Open to full-time, part-time and freelance work." width="100%" />
+</p>
 
-Open to full-time, part-time and freelance work. If you have a manual process that should not be manual, write to me at canemircan973@gmail.com.
+<p align="center">
+  <a href="https://linkedin.com/in/emircanbacanak/"><img src="https://img.shields.io/badge/LinkedIn-0E1A2B?style=flat-square&logo=linkedin&logoColor=3DD6C6" alt="LinkedIn" /></a>
+  <a href="mailto:canemircan973@gmail.com"><img src="https://img.shields.io/badge/Email-0E1A2B?style=flat-square&logo=gmail&logoColor=3DD6C6" alt="Email" /></a>
+  <a href="https://twitter.com/EmircanBacanak"><img src="https://img.shields.io/badge/X-0E1A2B?style=flat-square&logo=x&logoColor=3DD6C6" alt="X" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/capabilities.svg" alt="What I build: automation, AI-powered tooling, full-stack web." width="100%" />
+</p>
+
+### Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0E1A2B?style=flat-square&logo=python&logoColor=3DD6C6" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-0E1A2B?style=flat-square&logo=flask&logoColor=3DD6C6" alt="Flask" />
+  <img src="https://img.shields.io/badge/Node.js-0E1A2B?style=flat-square&logo=nodedotjs&logoColor=3DD6C6" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-0E1A2B?style=flat-square&logo=javascript&logoColor=3DD6C6" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0E1A2B?style=flat-square&logo=react&logoColor=3DD6C6" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-0E1A2B?style=flat-square&logo=mysql&logoColor=3DD6C6" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Selenium-0E1A2B?style=flat-square&logo=selenium&logoColor=3DD6C6" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Git-0E1A2B?style=flat-square&logo=git&logoColor=3DD6C6" alt="Git" />
+</p>
+
+### Work with me
+
+Open to full-time, part-time and freelance work. If you have a manual process that should not be manual, write to me at [canemircan973@gmail.com](mailto:canemircan973@gmail.com).
